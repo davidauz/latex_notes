@@ -1,2 +1,2 @@
 # latex_notes
-Student notes in Latex
+Student notes in LaTex
