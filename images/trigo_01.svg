@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192.61716mm"
+   height="95.717789mm"
+   viewBox="0 0 192.61716 95.717789"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="trigo_01.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
+     id="namedview84"
+     showgrid="false"
+     inkscape:zoom="1.0897964"
+     inkscape:cx="364.28822"
+     inkscape:cy="181.22651"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#ffffff;stroke:none;stroke-width:0.688293;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+     id="rect874"
+     width="192.61716"
+     height="95.717789"
+     x="5.6843419e-14"
+     y="1.4210855e-14" />
+  <path
+     id="path10"
+     style="fill:none;stroke:#000000;stroke-width:0.665001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 137.68472,17.210864 5.8100857,73.308734 H 137.68472 Z" />
+  <text
+     xml:space="preserve"
+     style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+     x="36.363586"
+     y="71.102364"
+     id="text837"><tspan
+       id="tspan835"
+       x="36.363586"
+       y="71.102364"
+       style="stroke-width:0.264583">θ</tspan></text>
+  <path
+     style="fill:#cccccc;stroke:#000000;stroke-width:0.596206;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+     id="path839"
+     d="m 29.227956,63.602354 a 24.67935,24.444756 0 0 1 1.9984,9.41887 l -24.6783603,0.2195 z" />
+  <text
+     xml:space="preserve"
+     style="font-size:6.16674px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.154169"
+     x="54.33828"
+     y="59.712448"
+     id="text850"
+     transform="rotate(-23.526653)"><tspan
+       id="tspan848"
+       x="54.33828"
+       y="59.712448"
+       style="text-align:center;text-anchor:middle;stroke-width:0.154169">Hypotenuse</tspan><tspan
+       x="54.33828"
+       y="67.420883"
+       style="text-align:center;text-anchor:middle;stroke-width:0.154169"
+       id="tspan852">(Ipotenusa)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:6.16674px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.154169"
+     x="163.58881"
+     y="43.670475"
+     id="text858"><tspan
+       id="tspan854"
+       x="163.58881"
+       y="43.670475"
+       style="text-align:center;text-anchor:middle;stroke-width:0.154169">Opposite</tspan><tspan
+       x="163.58881"
+       y="51.378849"
+       style="text-align:center;text-anchor:middle;stroke-width:0.154169"
+       id="tspan856">(Cateto minore)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:6.16674px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.154169"
+     x="82.100098"
+     y="80.090584"
+     id="text864"><tspan
+       x="82.100098"
+       y="80.090584"
+       style="text-align:center;text-anchor:middle;stroke-width:0.154169"
+       id="tspan862">Adjacent</tspan><tspan
+       x="82.100098"
+       y="87.798958"
+       style="text-align:center;text-anchor:middle;stroke-width:0.154169"
+       id="tspan868">(Cateto maggiore)</tspan></text>
+  <rect
+     style="fill:#cccccc;stroke:#000000;stroke-width:0.665001;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+     id="rect872"
+     width="12.136139"
+     height="12.136139"
+     x="125.54858"
+     y="61.172611" />
+</svg>
