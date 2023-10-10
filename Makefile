@@ -1,4 +1,12 @@
-algebra.pdf: algebra.tex choices.environment.tex esercizi.tex logaritmi.tex moreloga.tex polynomials.tex soluzioni.tex trigonometria.tex
+algebra.pdf: algebra.tex \
+choices.environment.tex \
+esercizi.tex \
+logaritmi.tex \
+moreloga.tex \
+polynomials.tex \
+soluzioni.tex \
+trigonometria.tex \
+combinatorio.tex
 	cd images; make
 	pdflatex algebra.tex && pdflatex algebra.tex
 

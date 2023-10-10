@@ -1,0 +1,84 @@
+\section{Calcolo combinatorio}\label{subsec:calcolo_combinatorio}
+
+\subsection{Formule}
+\setcounter{equation}{0}
+
+\begin{enumerate}
+
+\item 
+Coefficiente binomiale (binomial coefficient)
+
+\begin{equation}
+\binom{n}{k} = \frac{
+n\times (n-1)\times\cdots\times(n-k+1)
+}{
+k\times(k-1)\times\cdots\times1
+}
+=\frac{n!}{k!(n-k)!}
+\end{equation}
+
+
+
+per $n,k\in \mathbb{N} ,0\leq k\leq n$
+
+L'espressione $\tbinom{n}{k}$ si legge ``\emph{n su k}", in inglese ``\emph{n choose k}" perché ci sono $\tbinom {n}{k}$ modi di scegliere un sottoinsieme non ordinato di $k$ elementi da un insieme di $n$ elementi. 
+
+\item
+Binomial formula (o binomial identity):
+
+\begin{equation*}
+(x+y)^n=
+\binom{n}{0}x^{n}y^0+
+\binom{n}{1}x^{n-1}y^1+
+\binom{n}{2}x^{n-2}y^2+\cdots+
+\binom{n}{n-1}x^{1}y^{n-1}+
+\binom{n}{n}x^{0}y^{n}
+\end{equation*}
+
+La stessa formula usando la sommatoria:
+
+\begin{equation}
+(x+y)^n=\sum_{k=0}^{n}{\binom{n}{k}x^{k}y^{n-k}}
+=\sum_{k=0}^{n}{\binom{n}{k}x^{n-k}y^{k}}
+\end{equation}
+
+
+\item
+Formula di Pascal (regola di Pascal)
+
+\begin{equation}\label{formula_pascal}
+{n \choose k}={n-1 \choose k}+{n-1 \choose k-1}
+\end{equation}
+
+\end{enumerate}
+
+\subsection{Esercizi}
+
+\begin{enumerate}
+\item
+
+Trovare le soluzioni di
+
+\begin{equation*}
+\binom{n}{8}=\binom{n}{6} \hspace{2cm} n \geq 8
+\end{equation*}
+( Soluzione a pagina \pageref{combs_01} \label{combl_01} )
+
+
+
+\item 
+
+\begin{equation*}
+\frac{n!}{(n-3)!} = 210
+\end{equation*}
+
+( Soluzione a pagina \pageref{combs_02} \label{combl_02} )
+
+\item
+Dimostrare che 
+
+\begin{equation*}
+\sum_{k=0}^{n}{\binom{n}{k}}=2^n
+\end{equation*}
+( Soluzione a pagina \pageref{combs_03} \label{combl_03} )
+\end{enumerate}

@@ -1470,4 +1470,190 @@ $\approx$ 8 years
 \vspace{1cm}
 
 
+\subsection{Soluzioni di esercizi nella sezione ``\textbf{\nameref{subsec:calcolo_combinatorio}}".}
 
+Soluzione dell'esercizio \ref{combl_01} a pagina \pageref{combl_01}\label{combs_01}
+
+Ricordiamoci che 
+\begin{equation*}
+\binom{n}{k}=\frac{n!}{(n-k)!\cdot k!}
+=\frac{
+n\cdot(n-1)\times \cdots \times (n-k+1)
+}{
+k\cdot(k-1)\times \cdots \times 1
+}
+\end{equation*}
+
+quindi
+
+\begin{equation*}
+\binom{n}{8}=\binom{n}{6}
+\hspace{1cm}\Rightarrow \hspace{1cm}
+\frac{n!}{(n-8)! \cdot 8!} = \frac{n!}{(n-6)! \cdot 6!}
+\end{equation*}
+
+
+\begin{equation*}
+\frac{
+\cancel{n} \cdot \cancel{(n-1)}\cdot(n-2) \cdots (n-7)\cdot \cancel{(n-8)}!
+}
+{
+\cancel{(n-8)!} \cdot 8 \cdot 7 \cdot \cancel{6!}
+} = \frac{
+\cancel{n}\cdot\cancel{(n-1)}\cdots(n-5)\cancel{(n-6)!}
+}{
+\cancel{(n-6)!}\cdot\cancel{6!}
+}
+\end{equation*}
+
+\begin{equation*}
+(n-6)(n-7) = 56
+\end{equation*}
+
+$n=14; 14\ge 8 \Rightarrow $OK!
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+
+
+Soluzione dell'esercizio \ref{combl_02} a pagina \pageref{combl_02}\label{combs_02}
+
+\begin{equation*}
+\frac{n\cdot(n-1)\cdot(n-2)\cdot
+\cancel{(n-3)!}
+}{
+\cancel{(n-3)!}
+} = 210
+\end{equation*}
+
+Viene un'equazione di $3^\circ$ grado ma
+
+\begin{equation*}
+210=7\cdot3\cdot2\cdot5
+\end{equation*}
+
+o meglio
+
+\begin{equation*}
+210=7\cdot6\cdot5
+\end{equation*}
+
+\begin{equation*}
+210=7\cdot(7-1)\cdot(7-2)
+\end{equation*}
+
+quindi 
+
+\begin{equation*}
+n=7
+\end{equation*}
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+
+
+Soluzione dell'esercizio \ref{combl_03} a pagina \pageref{combl_03}\label{combs_03}
+
+\begin{equation*}
+\sum_{k=0}^{n}{\binom{n}{k}}=2^n
+\end{equation*}
+
+Ricordiamo la Binomial formula:
+
+\begin{equation}
+(x+y)^n=\sum_{k=0}^{n}{\binom{n}{k}x^{k}y^{n-k}}
+=\sum_{k=0}^{n}{\binom{n}{k}x^{n-k}y^{k}}
+\end{equation}
+
+Si nota che è molto simile alla formulazione del problema.
+
+Basterebbe trovare un $x$ e un $y$ tali per cui $x+y=2$, e la parte a sinistra diventerebbe proprio $2^n$.
+
+Dopodiché basterebbe che questi $x$ e $y$ siano pari a $1$ quando elevati a potenza.
+
+La soluzione è banale: scegliendo $x=1, y=1$ la \emph{Binomial formula} si riduce proprio alla formulazione del problema.
+
+\vspace{1cm}
+
+Un'altra dimostrazione fa uso della ricorsività.
+
+Se si riesce a dimostrare che la formula è valida per un valore di partenza, e poi si dimostra che quando sia valida per un intero $k$ allora è valida anche per $k+1$, allora la dimostrazione è completa.
+
+Come valore di base prendiamo $n=0$: la formula diventa 
+
+\begin{equation*}
+\sum_{k=0}^{0}{\binom{0}{k}}=\binom{0}{0}=\frac{0!}{0!\cdot0!}=2^0
+\end{equation*}
+
+perché ${0 \choose 0}$ è il numero di sottoinsiemi non ordinati di zero elementi che si possono ottenere da un insieme di zero elementi, quindi fa $1$.  $2^0$ a sua volta è pari a $1$.
+
+Il primo passo è fatto; ora bisogna partire da un generico intero $k$ per il quale si suppone che la formula sia vera:
+
+\begin{equation*}
+\binom{k}{0} + \binom{k}{1} + \binom{k}{2} + \cdots + \binom{k}{k} = 2^k
+\end{equation*}
+
+E dimostrare che sia vera anche per $k+1$:
+
+
+\begin{equation}\label{expr4}
+\binom{k+1}{0} + \binom{k+1}{1} + \binom{k+1}{2} + \cdots + \binom{k+1}{k+1} = 2^{k+1}
+\end{equation}
+
+Ricordiamo la formula di Pascal (pagina \pageref{formula_pascal}), qui riscritta con il $k$ e $n$ invertiti per renderla più simile alla situazione in esame:
+
+
+\begin{equation*}
+{k \choose n}={k-1 \choose n}+{k-1 \choose n-1}
+\end{equation*}
+
+In base a questa formula ognuno degli addendi dell'espressione \ref{expr4} (tranne il primo) può essere riscritto come somma, per esempio
+
+
+\begin{equation*}
+{k+1 \choose 5}={k \choose 5}+{k \choose 4}
+\end{equation*}
+
+Questo non vale per il primo addendo perché si avrebbe un numero negativo nel binomio, quindi si lascia così com'è.
+
+L'ultimo degli addendi a sua volta per il momento rimane invariato: ${k+1\choose k+1}$.
+
+Quindi (a parte il primo e l'ultimo) ognuno degli addendi si ritrova doppio; prendiamone due per meglio illustrare la situazione:
+
+\begin{equation*}
+\cdots+{k+1\choose 6}+{k+1\choose 7}+\cdots
+=
+\cdots+{k\choose 6}+{k \choose 5}+{k\choose 7}+{k\choose 6}+\cdots
+\end{equation*}
+
+In questa ``fetta" della sommatoria ${k\choose 6}$ viene ripetuto due volte; questo vale anche per ${k\choose 5}$ che trova il suo doppione nell'addendo precedente, mentre ${k \choose 7}$ lo trova nel successivo.
+
+Rivediamo ora il primo degli addendi e cioè ${k+1 \choose 0}$; esso vale $1$, come tutti i binomi con zero a denominatore.
+Il secondo degli addendi dell'espressione \ref{expr4} e cioè ${k+1\choose 1}$ diventa ${k\choose 0}+{k\choose 1}$ e cioè $1+{k\choose 1}$.  Questo significa che anche il primo degli addendo trova il suo doppio.
+
+L'ultimo degli addendi ${k+1\choose k+1}$ a sua volta vale 1, perché per definizione il numero di sottoinsiemi non ordinati di qualsiasi dimensione che sia uguale alla dimensione dell'insieme di partenza è sempre uno.  Quanti sottoinsiemi di un milione di elementi si possono definire partendo da un milione di elementi?  Uno.
+
+Questo significa che ${k+1\choose k+1}={k\choose k}$.
+
+Il penultimo degli addendi era ${k+1\choose k}$, che in base alla formiula di Pascal è diventato ${k\choose k}+{k\choose k-1}$.
+
+Però ${k\choose k}$ a sua volta vale $1$, quindi anche l'ultimo addendo ha il suo doppione.  L'espressione \ref{expr4} è quindi diventata:
+
+\begin{equation*}
+{k\choose 0}+{k\choose 0}+
+{k\choose 1}+{k\choose 1}+
+{k\choose 2}+{k\choose 2}+\cdots+
+{k\choose k-1}+{k\choose k-1}+
+{k\choose k}+{k\choose k}
+\end{equation*}
+
+Che riscritto come sommatoria diventa:
+\begin{equation*}
+2\times\sum_{n=0}^k{{k\choose n}} = 2\times2^k=2^{k+1}
+\end{equation*}
+
+Entrambe le condizioni della dimostrazione ricorsiva sono soddisfatte, quindi il postulato è vero.
