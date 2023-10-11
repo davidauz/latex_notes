@@ -1,29 +1,26 @@
 \documentclass[a4paper,14pt]{extarticle}
-\usepackage{amsfonts} % cursed Z symbol
 \usepackage{extsizes}
 \usepackage{multicol}
 \usepackage{amsmath}
 \usepackage{float}
-\usepackage{graphicx}
 \usepackage{hyperref}
-\usepackage{enumitem}
-\usepackage{cancel}
+\usepackage{graphicx}
 \graphicspath{ {./images} }
 \usepackage[margin=1in]{geometry}
-% \usepackage{textcomp}
-\title{Esercizi di Algebra}
-\author{per scuole superiori}
-\date{Settembre 2023}
+\title{Fisica}
+\author{}
+\date{Febbraio 2023}
 
 \begin{document}
 
+% \begin{NoHyper}
 \maketitle
 \tableofcontents
 \newpage
 
 \section{Introduzione}
 
-Questa è una modesta raccolta di esercizi di algebra che ho compilato per aiutare i
+Questa è una modesta raccolta di esercizi di fisica che ho compilato per aiutare i
 miei figli quando ne avevano bisogno.
 
 Sono un po' in inglese e un po' in italiano perché
@@ -41,26 +38,29 @@ Talete\footnote{Talete di Mileto (c. 624-546 A.C.), il ``Padre della Geometria"}
 
 Dove possibile ho riportato i riferimenti dei siti da dove ho copiato il materiale.
 
-Un ringraziamento particolare a \ref{https://www.risingpirates.com}{risingpirates} per avermi dato il permesso di
-utilizzare materiale dal loro sito.
-
-Detto questo, se qualcuno si dovesse sentire particolarmente violato nel trovare uno dei suoi esercizi in 
-questa raccolta me lo faccia sapere e lo toglierò subito.
+Se qualcuno si dovesse sentire particolarmente violato nel trovare uno dei suoi esercizi in 
+questa raccolta, me lo faccia sapere e lo toglierò subito.
 
 Allo stesso modo nel più probabile caso in cui qualcuno dovesse trovare errori, oppure avesse da proporre del 
 nuovo materiale, sarò ben felice di effettuare le relative correzioni ed integrazioni.
 
 
-\include{polynomials.tex}
-\include{choices.environment.tex}
-\include{logaritmi.tex}
-\include{trigonometria.tex}
-\include{esercizi.tex}
-\include{moreloga.tex}
-\include{combinatorio.tex}
-\include{soluzioni.tex}
 
+\section{Formule}
 
+\input {formulas.tex}
 
+\section{Esercizi}
+
+\input{moto_lineare.tex}
+\input{pwam.tex}
+\input{carrucole.tex}
+\input{proiettili.esercizi.tex}
+\input{moto.circolare.tex}
+\input{soluzioni.tex}
+\input{proiettili.soluzioni.tex}
+\input{motocirc.sol.tex}
+
+% \end{NoHyper}
 \end{document}
 
