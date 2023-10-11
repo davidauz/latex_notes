@@ -1579,7 +1579,15 @@ La soluzione è banale: scegliendo $x=1, y=1$ la \emph{Binomial formula} si ridu
 
 \vspace{1cm}
 
-Un'altra dimostrazione fa uso della ricorsività.
+Un'altra dimostrazione fa uso della ricorsività
+\footnote{Fonte 
+\href{https://www.risingpirates.com}{https://www.risingpirates.com}
+e
+\href{https://math.stackexchange.com/questions/519832/proving-by-induction-that-sum-k-0nn-choose-k-2n}
+{https://math.stackexchange.com/questions/519832/proving-by-induction-that-sum-k-0nn-choose-k-2n}
+}
+.
+
 
 Se si riesce a dimostrare che la formula è valida per un valore di partenza, e poi si dimostra che quando sia valida per un intero $k$ allora è valida anche per $k+1$, allora la dimostrazione è completa.
 
@@ -1589,71 +1597,71 @@ Come valore di base prendiamo $n=0$: la formula diventa
 \sum_{k=0}^{0}{\binom{0}{k}}=\binom{0}{0}=\frac{0!}{0!\cdot0!}=2^0
 \end{equation*}
 
-perché ${0 \choose 0}$ è il numero di sottoinsiemi non ordinati di zero elementi che si possono ottenere da un insieme di zero elementi, quindi fa $1$.  $2^0$ a sua volta è pari a $1$.
+perché ${0 \choose 0}$ è il numero di sottoinsiemi non ordinati di zero elementi che si possono ottenere da un insieme di zero elementi, quindi $1$.  $2^0$ a sua volta è pari a $1$.
 
-Il primo passo è fatto; ora bisogna partire da un generico intero $k$ per il quale si suppone che la formula sia vera:
+Il primo passo è fatto; ora bisogna partire da un generico intero $n$ per il quale si suppone che la formula sia vera:
 
 \begin{equation*}
-\binom{k}{0} + \binom{k}{1} + \binom{k}{2} + \cdots + \binom{k}{k} = 2^k
+\binom{n}{0} + \binom{n}{1} + \binom{n}{2} + \cdots + \binom{n}{n} = 2^n
 \end{equation*}
 
-E dimostrare che sia vera anche per $k+1$:
+E dimostrare che sia vera anche per $n+1$:
 
 
 \begin{equation}\label{expr4}
-\binom{k+1}{0} + \binom{k+1}{1} + \binom{k+1}{2} + \cdots + \binom{k+1}{k+1} = 2^{k+1}
+\binom{n+1}{0} + \binom{n+1}{1} + \binom{n+1}{2} + \cdots + \binom{n+1}{n+1} = 2^{n+1}
 \end{equation}
 
-Ricordiamo la formula di Pascal (pagina \pageref{formula_pascal}), qui riscritta con il $k$ e $n$ invertiti per renderla più simile alla situazione in esame:
+Ricordiamo la formula di Pascal (pagina \pageref{formula_pascal}):
 
 
 \begin{equation*}
-{k \choose n}={k-1 \choose n}+{k-1 \choose n-1}
+{n \choose k}={n-1 \choose k}+{n-1 \choose k-1}
 \end{equation*}
 
 In base a questa formula ognuno degli addendi dell'espressione \ref{expr4} (tranne il primo) può essere riscritto come somma, per esempio
 
 
 \begin{equation*}
-{k+1 \choose 5}={k \choose 5}+{k \choose 4}
+{n+1 \choose 5}={n \choose 5}+{n \choose 4}
 \end{equation*}
 
 Questo non vale per il primo addendo perché si avrebbe un numero negativo nel binomio, quindi si lascia così com'è.
 
-L'ultimo degli addendi a sua volta per il momento rimane invariato: ${k+1\choose k+1}$.
+L'ultimo degli addendi a sua volta per il momento rimane invariato: ${n+1\choose n+1}$.
 
 Quindi (a parte il primo e l'ultimo) ognuno degli addendi si ritrova doppio; prendiamone due per meglio illustrare la situazione:
 
 \begin{equation*}
-\cdots+{k+1\choose 6}+{k+1\choose 7}+\cdots
+\cdots+{n+1\choose 6}+{n+1\choose 7}+\cdots
 =
-\cdots+{k\choose 6}+{k \choose 5}+{k\choose 7}+{k\choose 6}+\cdots
+\cdots+{n\choose 6}+{n \choose 5}+{n\choose 7}+{n\choose 6}+\cdots
 \end{equation*}
 
-In questa ``fetta" della sommatoria ${k\choose 6}$ viene ripetuto due volte; questo vale anche per ${k\choose 5}$ che trova il suo doppione nell'addendo precedente, mentre ${k \choose 7}$ lo trova nel successivo.
+In questa ``fetta" della sommatoria ${n\choose 6}$ viene ripetuto due volte; questo vale anche per ${n\choose 5}$ che trova il suo doppione nell'addendo precedente, mentre ${n \choose 7}$ lo trova nel successivo.
 
-Rivediamo ora il primo degli addendi e cioè ${k+1 \choose 0}$; esso vale $1$, come tutti i binomi con zero a denominatore.
-Il secondo degli addendi dell'espressione \ref{expr4} e cioè ${k+1\choose 1}$ diventa ${k\choose 0}+{k\choose 1}$ e cioè $1+{k\choose 1}$.  Questo significa che anche il primo degli addendo trova il suo doppio.
+Rivediamo ora il primo degli addendi e cioè ${n+1 \choose 0}$; esso vale $1$, come tutti i binomi con zero a denominatore.
+Il secondo degli addendi dell'espressione \ref{expr4} e cioè ${n+1\choose 1}$ diventa ${n\choose 0}+{n\choose 1}$ e cioè $1+{n\choose 1}$.  Questo significa che anche il primo degli addendo trova il suo doppio.
 
-L'ultimo degli addendi ${k+1\choose k+1}$ a sua volta vale 1, perché per definizione il numero di sottoinsiemi non ordinati di qualsiasi dimensione che sia uguale alla dimensione dell'insieme di partenza è sempre uno.  Quanti sottoinsiemi di un milione di elementi si possono definire partendo da un milione di elementi?  Uno.
+L'ultimo degli addendi ${n+1\choose n+1}$ a sua volta vale 1, perché per definizione il numero di sottoinsiemi non ordinati di qualsiasi dimensione che sia uguale alla dimensione dell'insieme di partenza è sempre uno.  Quanti sottoinsiemi di un milione di elementi si possono definire partendo da un milione di elementi?  Uno.
 
-Questo significa che ${k+1\choose k+1}={k\choose k}$.
+Questo significa che ${n+1\choose n+1}={n\choose n}$.
 
-Il penultimo degli addendi era ${k+1\choose k}$, che in base alla formiula di Pascal è diventato ${k\choose k}+{k\choose k-1}$.
+Il penultimo degli addendi era ${n+1\choose n}$, che grazie alla formula di Pascal è diventato ${n\choose n}+{n\choose n-1}$.
 
-Però ${k\choose k}$ a sua volta vale $1$, quindi anche l'ultimo addendo ha il suo doppione.  L'espressione \ref{expr4} è quindi diventata:
+Però ${n\choose n}$ a sua volta vale $1$, quindi anche l'ultimo addendo ha il suo doppione.  L'espressione \ref{expr4} è quindi diventata:
 
 \begin{equation*}
-{k\choose 0}+{k\choose 0}+
-{k\choose 1}+{k\choose 1}+
-{k\choose 2}+{k\choose 2}+\cdots+
-{k\choose k-1}+{k\choose k-1}+
-{k\choose k}+{k\choose k}
+{n\choose 0}+{n\choose 0}+
+{n\choose 1}+{n\choose 1}+
+{n\choose 2}+{n\choose 2}+\cdots+
+{n\choose n-1}+{n\choose n-1}+
+{n\choose n}+{n\choose n}
 \end{equation*}
 
 Che riscritto come sommatoria diventa:
 \begin{equation*}
-2\times\sum_{n=0}^k{{k\choose n}} = 2\times2^k=2^{k+1}
+2\times\sum_{k=0}^n{{n\choose k}} = 2\times2^n=2^{n+1}
 \end{equation*}
 
-Entrambe le condizioni della dimostrazione ricorsiva sono soddisfatte, quindi il postulato è vero.
+Entrambe le condizioni della dimostrazione ricorsiva sono soddisfatte, quindi l'ipotesi è dimostrata.
