@@ -20,10 +20,11 @@ trigo_02.pdf \
 trigo_03.pdf \
 trigo_04.pdf \
 trigo_05.pdf \
-trigo_06.pdf
+trigo_06.pdf \
+analyzem01.pdf
 
 %.pdf: %.svg
 	inkscape -o $@ $<
 
 clean:
-	rm *pdf
+	rm -f *pdf

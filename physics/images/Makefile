@@ -33,4 +33,4 @@ tensione.pdf
 	inkscape -o $@ $<
 
 clean:
-	rm *pdf
+	rm -f *pdf

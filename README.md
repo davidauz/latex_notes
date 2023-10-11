@@ -1,7 +1,7 @@
 # latex_notes
 <h2>Italiano</h2>
 
-Questa è una modesta raccolta di esercizi di algebra che ho compilato per aiutare i miei figli quando ne avevano bisogno.
+Questa è una modesta raccolta di esercizi di matematica e fisica per le scuole superiori che ho compilato per aiutare i miei figli quando ne avevano bisogno.
 
 Sono un po' in inglese e un po' in italiano perché si tratta di materiale che ho copiato a piene mani da ogni sorta di risorsa trovata su internet.
 
@@ -19,9 +19,9 @@ Allo stesso modo nel più probabile caso in cui qualcuno dovesse trovare errori,
 
 
 <h2>English</h2>
-This is a modest collection of algebra exercises that I wrote to help my children when they needed it.
+This is a modest collection of high school math and physics exercises that I put together to help my children when they needed it.
 
-They are a mix of English and Italian because this material is something I have borrowed extensively from various resources found on the internet.
+There is a mix of English and Italian because this material is something I have borrowed extensively from various resources found on the internet.
 
 My only contribution has been formatting it in LaTeX, which required some effort, which is why I decided to make it available online in case someone else is interested.
 
