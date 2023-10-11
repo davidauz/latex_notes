@@ -34,3 +34,22 @@ Where possible, I have provided references to the sources.
 If anyone feels particularly violated upon finding one of their exercises in this collection, please let me know, and I will remove it immediately.
 
 Likewise, in the most likely event that someone finds errors or has new material to propose, I will be happy to make the necessary corrections and additions.
+
+<h1>Sources</H1>
+
+In no particular order:
+
+<ul>
+<li>https://assets.cambridge.org</li>
+<li>https://learning.cambridgeinternational.org</li>
+<li>https://math.stackexchange.com</li>
+<li>https://www.examsolutions.net</li>
+<li>https://www.math.it</li>
+<li>https://www.physicsandmathstutor.com</li>
+<li>https://www.risingpirates.com</li>
+<li>https://www.studocu.com</li>
+<li>https://www.youtube.com</li>
+<li>https://www2.pd.infn.it/casimir</li>
+<li>and basically every result from googling "high school math"</li>
+</ul>
+
