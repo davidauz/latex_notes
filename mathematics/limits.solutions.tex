@@ -1,0 +1,279 @@
+
+
+\subsection{Soluzioni di esercizi nella sezione ``\textbf{\nameref{subsec:limiti:successioni}}".}
+
+Soluzione dell'esercizio \ref{lims_00} a pagina \pageref{lims_00}\label{limss_00}
+
+In base alla definizione bisogna dimostrare che per un qualsiasi$\varepsilon > 0$
+vale questa disuguaglianza: 
+
+\begin{equation*}
+\left|
+\frac{
+n
+}{
+2n+5
+}-\frac{1}{2}
+\right|
+<\varepsilon
+\end{equation*}
+
+
+\begin{equation*}
+\left|
+\frac{
+2n -2n -5
+}{
+4n+10
+}
+\right|
+<\varepsilon
+\end{equation*}
+
+
+\begin{equation*}
+\left|
+\frac{
+-5
+}{
+4n+10
+}
+\right|
+<\varepsilon
+\end{equation*}
+
+Si può togliere il modulo (valore assoluto) perché i due termini della disuguaglianza sono entrambi positivi:
+
+
+\begin{equation*}
+\frac{
+-5
+}{
+4n+10
+}
+<\varepsilon
+\end{equation*}
+
+
+\begin{equation*}
+5
+<\varepsilon
+\cdot(4n+10)
+\end{equation*}
+
+
+
+\begin{equation*}
+5
+<4n\varepsilon+10\varepsilon
+\end{equation*}
+
+Ora si risolve per $n$
+
+\begin{equation*}
+-4n\varepsilon
+<
+-5
++10\varepsilon
+\end{equation*}
+
+
+\begin{equation*}
+-n
+<
+\frac{
+-5
++10\varepsilon
+}{4\varepsilon}
+\end{equation*}
+
+ossia 
+
+\begin{equation*}
+n
+>
+\frac{
+5
+-10\varepsilon
+}{4\varepsilon}
+\end{equation*}
+
+Questo significa che per qualsiasi $\varepsilon$ è possibile calcolare un numero $n$ che soddisfa la definizione, quindi la dimostrazione è fatta.
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+
+
+Soluzione dell'esercizio \ref{lims_01} a pagina \pageref{lims_01}\label{limss_01}
+
+Come sempre in questo tipo di esercizi, bisogna dimostrare che dato un $\varepsilon > 0$, esiste un $n_0$ tale per cui
+\begin{equation*}
+\forall n>n_0: \left| a_n - a \right| < \varepsilon
+\end{equation*}
+
+Nel caso dell'esercizio:
+\begin{equation*}
+a_n = \frac{n-1}{n} \textrm{\hspace{1cm}mentre \hspace{1cm}} a=1
+\end{equation*}
+
+quindi la disequazione diventa:
+
+\begin{equation*}
+\left| \frac{n-1}{n} -1 \right| < \varepsilon
+\end{equation*}
+
+ossia
+
+\begin{equation*}
+\left| \frac{n-1-n}{n} \right| < \varepsilon
+\end{equation*}
+
+\begin{equation*}
+\left| \frac{1}{n} \right| < \varepsilon
+\end{equation*}
+
+Siccome $\frac{1}{n}$ è una quantità positiva, possiamo tralasciare il valore assoluto:
+
+
+\begin{equation*}
+\frac{1}{n} < \varepsilon \hspace{1cm} \Rightarrow  \hspace{1cm} n > \frac{1}{\varepsilon}
+\end{equation*}
+
+Concludendo, per qualsiasi $\varepsilon$ è possibile calcolare un numero $n$ tale per cui la definizione di limite è vera, quindi il limite della successione è effettivamente pari a $1$.
+
+
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+
+
+Soluzione dell'esercizio \ref{lims_02} a pagina \pageref{lims_02}\label{limss_02}
+
+\begin{equation*}
+\lim_{n \to +\infty}\frac{2n+1}{3n-1}=
+\end{equation*}
+
+Raccogliere $n$
+
+\begin{equation*}
+\lim_{n \to +\infty}\frac{n
+\left( 
+	2+\frac{1}{n}
+\right)
+}{n
+\left( 
+	3-\frac{1}{n}
+\right)
+}=
+\end{equation*}
+
+Semplificare
+
+\begin{equation*}
+\lim_{n \to +\infty}\frac{
+	2+\frac{1}{n}
+}{
+	3-\frac{1}{n}
+}=
+\end{equation*}
+
+Per $n$ che tende all'infinito $\frac{1}{n}$ tende a zero, quindi
+
+
+\begin{equation*}
+\lim_{n \to +\infty}\frac{
+	2+\frac{1}{n}
+}{
+	3-\frac{1}{n}
+}=\frac{2}{3}
+\end{equation*}
+
+Ora come al solito bisogna usare la definizione di limite per dimostrare che 
+
+\begin{equation*}
+\lim_{n \to +\infty}\frac{2n+1}{3n-1}=\frac{2}{3}
+\end{equation*}
+
+quindi dato un $\varepsilon > 0$ trovare un $n_0$ tale che per ogni $n>n_0$ si abbia
+% https://www.youmath.it/forum/tutto-sulle-funzioni-da-r-a-r-e-sui-numeri-reali-analisi-matematica/39870-verificare-il-limite-di-una-successione-fratta-con-la-definizione.html
+
+\begin{equation*}
+\left|
+\frac{2n+1}{3n-1}-\frac{2}{3}
+\right| < \varepsilon
+\end{equation*}
+
+\begin{equation*}
+\left|
+\frac{
+3(2n+1)-2(3n-1)
+}{
+(3n-1)3
+}
+\right| < \varepsilon
+\end{equation*}
+
+\begin{equation*}
+\left|
+\frac{
+\cancel{6n}+3-\cancel{6n}+2
+}{
+9n-3
+}
+\right| < \varepsilon
+\end{equation*}
+
+\begin{equation*}
+\left|
+\frac{
+5
+}{9n-3}
+\right| < \varepsilon
+\end{equation*}
+
+Entrambi i tyermini sono positivi quindi non serve il valore assoluto:
+
+\begin{equation*}
+\frac{
+5
+}{9n-3}
+< \varepsilon
+\end{equation*}
+
+Ora bisogna risolvere per $n$:
+
+\begin{equation*}
+\frac{
+5
+}{9n-3}
+- \varepsilon <0
+\end{equation*}
+
+
+\begin{equation*}
+\frac{5 -9n\varepsilon +3\varepsilon
+}{9n-3
+} < 0
+\end{equation*}
+
+Il denominatore ($9n-3$) è sempre positivo perché per definizione $n$ è positivo.
+
+Quindi la disequazione si riduce a:
+
+\begin{equation*}
+5-9n\varepsilon +3\varepsilon < 0
+\end{equation*}
+
+\begin{equation*}
+-9n\varepsilon < -5 -3\varepsilon
+\end{equation*}
+
+\begin{equation*}
+n > \frac{5+3\varepsilon}{9\varepsilon}
+\end{equation*}
+
+Dato un qualsiasi $\varepsilon$ esiste quindi un numero $n_0 = \frac{5+3\varepsilon}{9\varepsilon}$ tale per cui qualsiasi $n>n_0$ soddisfa la definizione di limite: la dimostrazione è terminata.

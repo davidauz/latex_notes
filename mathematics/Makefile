@@ -1,4 +1,4 @@
-algebra.pdf: algebra.tex \
+algebra.pdf: mathematics.tex \
 choices.environment.tex \
 esercizi.tex \
 logaritmi.tex \
@@ -8,7 +8,7 @@ soluzioni.tex \
 trigonometria.tex \
 combinatorio.tex
 	cd images; make
-	pdflatex algebra.tex && pdflatex algebra.tex
+	pdflatex mathematics.tex && pdflatex mathematics.tex
 
 all:
 	algebra.pdf
