@@ -21,7 +21,11 @@ trigo_03.pdf \
 trigo_04.pdf \
 trigo_05.pdf \
 trigo_06.pdf \
-analyzem01.pdf
+circles_00.pdf \
+circles_01.pdf \
+circles_02.pdf \
+analyzem01.pdf \
+01.pdf
 
 %.pdf: %.svg
 	inkscape -o $@ $<

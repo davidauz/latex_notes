@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.01784mm"
+   height="124.30779mm"
+   viewBox="0 0 108.01784 124.30778"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker2844"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2842" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-43.309978,-51.112451)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.164853;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       id="rect184"
+       width="102.91575"
+       height="115.96299"
+       x="43.581482"
+       y="58.431305"
+       ry="0" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 50.400379,78.424308 V 174.58547"
+       id="path2476" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.745;stroke-linecap:round;stroke-dasharray:none;marker-end:url(#TriangleStart);stop-color:#000000"
+       d="M 94.748992,174.54922 V 62.507936"
+       id="path2484" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149924;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53838,85.851995 H 43.73456"
+       id="path2546" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,100.63488 H 43.882249"
+       id="path2548" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,115.41774 H 43.882249"
+       id="path2550" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.768553;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#marker2844);stop-color:#000000;stop-opacity:1"
+       d="M 44.201277,130.20061 H 144.10044"
+       id="path2552" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,144.98348 H 43.882249"
+       id="path2554" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,152.37491 H 43.882249"
+       id="path2556" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,159.76635 H 43.882249"
+       id="path2558" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,167.15778 H 43.882249"
+       id="path2560" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149791;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.50229,78.460565 H 43.882222"
+       id="path2562" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.50716,174.54922 H 50.346005"
+       id="path2564" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,93.243435 H 43.882249"
+       id="path2566" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.150179;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53814,108.0263 H 43.385067"
+       id="path2568" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,122.80917 H 43.882249"
+       id="path2570" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149925;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53782,137.59204 H 43.732352"
+       id="path2572" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.7417px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214462;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="93.292892"
+       y="54.611393"
+       id="text3751"><tspan
+         id="tspan3749"
+         style="fill:#000000;stroke:none;stroke-width:0.214462"
+         x="93.292892"
+         y="54.611393">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.7417px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214462;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="147.6064"
+       y="131.19221"
+       id="text3755"><tspan
+         id="tspan3753"
+         style="fill:#000000;stroke:none;stroke-width:0.214462"
+         x="147.6064"
+         y="131.19221">x</tspan></text>
+    <g
+       id="g3872"
+       transform="translate(-0.85690058)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect3865"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text3811"><tspan
+           id="tspan3809"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">1</tspan></text>
+    </g>
+    <g
+       id="g3880"
+       transform="translate(-0.85690058,-7.2893896)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect3874"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text3878"><tspan
+           id="tspan3876"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">2</tspan></text>
+    </g>
+    <g
+       id="g3888"
+       transform="translate(-0.85690058,-14.578779)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect3882"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text3886"><tspan
+           id="tspan3884"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">3</tspan></text>
+    </g>
+    <g
+       id="g3896"
+       transform="translate(-0.85690058,-21.868169)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect3890"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text3894"><tspan
+           id="tspan3892"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">4</tspan></text>
+    </g>
+    <g
+       id="g3904"
+       transform="translate(-0.85690058,-29.157558)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect3898"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text3902"><tspan
+           id="tspan3900"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">5</tspan></text>
+    </g>
+    <g
+       id="g3912"
+       transform="translate(-0.85690058,-36.446948)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect3906"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text3910"><tspan
+           id="tspan3908"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">6</tspan></text>
+    </g>
+    <g
+       id="g4004"
+       transform="translate(-2.8158154,43.59304)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect3998"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4002"><tspan
+           id="tspan4000"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-5</tspan></text>
+    </g>
+    <g
+       id="g4020"
+       transform="translate(-2.8158154,50.825238)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4014"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4018"><tspan
+           id="tspan4016"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-6</tspan></text>
+    </g>
+    <g
+       id="g4028"
+       transform="translate(-2.8158154,36.373017)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4022"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4026"><tspan
+           id="tspan4024"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-4</tspan></text>
+    </g>
+    <g
+       id="g4036"
+       transform="translate(-2.8158154,29.140819)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4030"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4034"><tspan
+           id="tspan4032"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-3</tspan></text>
+    </g>
+    <g
+       id="g4052"
+       transform="translate(-2.8158154,14.700773)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4046"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4050"><tspan
+           id="tspan4048"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-1</tspan></text>
+    </g>
+    <ellipse
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.700786;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path4432"
+       cx="87.363716"
+       cy="109.08923"
+       rx="36.47644"
+       ry="35.225803" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,65.812809 H 43.882249"
+       id="path4580" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.50716,58.421379 H 50.346005"
+       id="path4582" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.149817;stroke-linecap:round;stroke-dasharray:none;stop-color:#000000"
+       d="M 146.53851,73.204249 H 43.882249"
+       id="path4584" />
+    <g
+       id="g4592"
+       transform="translate(-0.85690058,-44.384453)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4586"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4590"><tspan
+           id="tspan4588"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">7</tspan></text>
+    </g>
+    <g
+       id="g4608"
+       transform="translate(-0.85690058,-57.084461)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4602"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4606"><tspan
+           id="tspan4604"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">9</tspan></text>
+    </g>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 146.50001,58.42852 V 174.39708"
+       id="path4775" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 138.87822,58.42852 V 174.39708"
+       id="path4796" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 131.23328,58.42852 V 174.39708"
+       id="path4798" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 124.21699,58.42852 V 174.39708"
+       id="path4800" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 116.83422,58.42852 V 174.39708"
+       id="path4802" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 109.36478,58.42852 V 174.39708"
+       id="path4804" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 101.80622,58.42852 V 174.39708"
+       id="path4806" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 86.528302,58.42852 V 174.39708"
+       id="path4808" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 79.784186,58.42852 V 174.39708"
+       id="path4810" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 71.867244,58.42852 V 174.39708"
+       id="path4812" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 65.08942,58.42852 V 174.39708"
+       id="path4814" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 57.895715,58.42852 V 174.39708"
+       id="path4816" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 50.326483,58.42852 V 174.39708"
+       id="path4818" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 43.732352,58.42852 V 174.39708"
+       id="path4820" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.145;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 43.732352,58.42852 V 174.39708"
+       id="path4822" />
+    <g
+       id="g4165"
+       transform="translate(9.3805597,4.1873643)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4159"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4163"><tspan
+           id="tspan4161"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">1</tspan></text>
+    </g>
+    <g
+       id="g4173"
+       transform="translate(16.752321,4.1873643)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4167"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4171"><tspan
+           id="tspan4169"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">2</tspan></text>
+    </g>
+    <g
+       id="g4189"
+       transform="translate(31.495845,4.1873643)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4183"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4187"><tspan
+           id="tspan4185"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">4</tspan></text>
+    </g>
+    <g
+       id="g4197"
+       transform="translate(38.867606,4.1873643)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4191"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4195"><tspan
+           id="tspan4193"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">5</tspan></text>
+    </g>
+    <g
+       id="g4205"
+       transform="translate(46.239368,4.1873643)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4199"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4203"><tspan
+           id="tspan4201"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">6</tspan></text>
+    </g>
+    <g
+       id="g4213"
+       transform="translate(-7.035837,4.1224517)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4207"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4211"><tspan
+           id="tspan4209"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-1</tspan></text>
+    </g>
+    <g
+       id="g4221"
+       transform="translate(-14.360615,4.1224517)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4215"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4219"><tspan
+           id="tspan4217"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-2</tspan></text>
+    </g>
+    <g
+       id="g4229"
+       transform="translate(-21.685393,4.1163643)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4223"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4227"><tspan
+           id="tspan4225"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-3</tspan></text>
+    </g>
+    <g
+       id="g4237"
+       transform="translate(-29.010171,4.1224517)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4231"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text4235"><tspan
+           id="tspan4233"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-4</tspan></text>
+    </g>
+    <g
+       id="g5292"
+       transform="translate(-43.21412,4.1163643)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect5286"
+         width="4.9168367"
+         height="3.7580736"
+         x="91.314636"
+         y="120.82475"
+         ry="0.14200374" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.762527"
+         y="124.53998"
+         id="text5290"><tspan
+           id="tspan5288"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.762527"
+           y="124.53998">-6</tspan></text>
+    </g>
+    <g
+       id="g4181"
+       transform="translate(24.124083,4.1873643)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4175"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4179"><tspan
+           id="tspan4177"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">3</tspan></text>
+    </g>
+    <g
+       id="g4600"
+       transform="translate(-0.85690058,-49.676123)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.745;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect4594"
+         width="2.3749111"
+         height="3.6282485"
+         x="91.314636"
+         y="120.82475"
+         ry="1.1874555" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="91.308678"
+         y="124.09505"
+         id="text4598"><tspan
+           id="tspan4596"
+           style="fill:#000000;stroke:none;stroke-width:0.125025"
+           x="91.308678"
+           y="124.09505">8</tspan></text>
+    </g>
+    <g
+       aria-label="-5"
+       id="text456"
+       style="font-size:3.93023px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';vector-effect:none;stroke-width:0.125025;stroke-linecap:round;stop-color:#000000"
+       transform="translate(5.2916663)">
+      <g
+         id="g514"
+         transform="translate(-5.2916667)"
+         style="fill:#ffffff">
+        <path
+           id="path458"
+           d="m 55.070312,127.45312 c -0.218504,0.80432 0.222801,0.94882 0.929297,0.82813 0.560997,-0.02 1.388838,0.22686 1.113672,-0.6293 0.268123,-0.85393 -0.401911,-0.7697 -1.029297,-0.72812 -0.487754,0.0861 -1.258091,-0.30287 -1.013672,0.52929 z"
+           style="fill:#ffffff" />
+        <path
+           id="path460"
+           d="m 56.681641,125.79102 c -0.07613,0.50408 0.146764,1.30718 -0.1,1.64062 0.05059,0.42735 -0.235159,1.25878 0.160844,1.52117 0.92077,0.51811 2.477377,0.37976 2.700874,-0.85125 0.103909,-0.51836 -0.02221,-1.10802 -0.429687,-1.46679 0.522412,-0.0166 0.112586,-0.96554 0.24414,-1.37305 -0.858723,0 -1.717447,0 -2.576171,0 0,0.17643 0,0.35286 0,0.5293 z m 1.279297,1.72265 c 0.158634,0.1112 0.0032,0.72118 -0.134766,0.375 -0.01148,-0.14811 -0.132798,-0.43583 0.134766,-0.375 z"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="55.427578"
+       y="128.65634"
+       id="text4243"><tspan
+         id="tspan4241"
+         style="fill:#000000;stroke:none;stroke-width:0.125025"
+         x="55.427578"
+         y="128.65634">-5</tspan></text>
+    <g
+       aria-label="-2"
+       id="text521"
+       style="font-size:3.93023px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';vector-effect:none;stroke-width:0.125025;stroke-linecap:round;stop-color:#000000"
+       transform="translate(-5.2916667)">
+      <g
+         id="g532"
+         style="fill:#ffffff"
+         transform="translate(5.2916667)">
+        <path
+           id="path523"
+           d="m 88.589844,145.25781 c -0.218505,0.80431 0.2228,0.94882 0.929297,0.82813 0.560745,-0.0196 1.386624,0.22594 1.111718,-0.6293 0.268123,-0.85393 -0.401911,-0.7697 -1.029297,-0.72812 -0.487574,0.0858 -1.255861,-0.3022 -1.011718,0.52929 z"
+           style="fill:#ffffff" />
+        <path
+           id="path525"
+           d="m 91.341797,143.01758 c -0.452966,0.0267 -1.069536,0.17908 -1.3125,0.51601 0.130546,0.42779 -0.335931,1.4526 0.4,1.275 0.66894,-0.0844 0.932644,0.0418 0.299253,0.50518 -0.402704,0.38065 -0.888407,0.72893 -0.718784,1.34717 -0.08325,0.66944 0.996781,0.17561 1.429297,0.32929 0.438479,-0.15318 1.513858,0.33053 1.474999,-0.3 -0.14193,-0.43359 0.32252,-1.47356 -0.299999,-1.42656 -0.04341,-0.16793 0.378572,-0.68643 0.25013,-1.06054 -0.04313,-0.76885 -0.804733,-1.23154 -1.522396,-1.18555 z m 0.05859,1.25 c -0.0095,0.56402 -0.306203,0.58972 -0.08008,0 l 0.04492,-0.004 z"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.93023px;line-height:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variation-settings:normal;text-decoration-color:#000000;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="88.946709"
+       y="146.46077"
+       id="text4042"><tspan
+         id="tspan4040"
+         style="fill:#000000;stroke:none;stroke-width:0.125025"
+         x="88.946709"
+         y="146.46077">-2</tspan></text>
+  </g>
+</svg>

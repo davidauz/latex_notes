@@ -42,3 +42,4 @@ algebra.pdf: images/trigo_03.svg
 algebra.pdf: images/trigo_04.svg
 algebra.pdf: images/trigo_05.svg
 algebra.pdf: images/trigo_06.svg
+algebra.pdf: images/01.svg
