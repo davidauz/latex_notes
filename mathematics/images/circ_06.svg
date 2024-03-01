@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="469.48215"
+   height="381.17664"
+   id="svg198"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:none;stroke:#ff0000;stroke-width:2.7;stroke-dasharray:none;stop-color:#000000"
+     id="rect2358"
+     width="466.78214"
+     height="378.47662"
+     x="1.35"
+     y="1.35"
+     ry="14.775275" />
+  <g
+     id="background-2df9ae94"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)">
+    <rect
+       fill="#ffffff"
+       stroke="none"
+       x="0"
+       y="0"
+       width="400"
+       height="400"
+       class="dcg-svg-background"
+       id="rect4" />
+  </g>
+  <g
+     id="background-images-2df9ae94"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 28.911264,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path16"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 68.911264,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path18"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 108.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path20"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 148.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path22"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 188.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path24"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 268.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path26"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 308.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path28"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 348.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path30"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 388.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path32"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 428.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path34"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m 468.91126,-139.45688 v 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path36"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,341.54312 h 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path58"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,301.54312 h 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path60"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,221.54312 h 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path62"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,181.54312 h 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path64"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,141.54312 h 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path66"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,101.54312 h 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path68"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,61.543115 h 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path70"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-minor-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,21.543115 h 800"
+     stroke-opacity="0.2"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path72"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-major-gridline"
+     paint-order="fill stroke markers"
+     d="m 28.911264,-139.45688 v 800"
+     stroke-opacity="0.25"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path80"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-major-gridline"
+     paint-order="fill stroke markers"
+     d="m 428.91126,-139.45688 v 800"
+     stroke-opacity="0.25"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path82"
+     style="stroke-width:2" />
+  <path
+     fill="none"
+     stroke="#000000"
+     class="dcg-svg-major-gridline"
+     paint-order="fill stroke markers"
+     d="m -172.08874,61.543115 h 800"
+     stroke-opacity="0.25"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     id="path86"
+     style="stroke-width:2" />
+  <g
+     id="yaxis-2df9ae94"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)">
+    <title
+       id="title91">Y axis</title>
+    <g
+       id="g95">
+      <path
+         fill="none"
+         stroke="#000000"
+         class="dcg-svg-axis-line"
+         paint-order="fill stroke markers"
+         d="M 200,0 V 400"
+         stroke-opacity="0.9"
+         stroke-miterlimit="10"
+         stroke-width="1.5"
+         stroke-dasharray="none"
+         id="path93" />
+    </g>
+  </g>
+  <g
+     id="xaxis-2df9ae94"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)">
+    <title
+       id="title98">X axis</title>
+    <g
+       id="g102">
+      <path
+         fill="none"
+         stroke="#000000"
+         class="dcg-svg-axis-line"
+         paint-order="fill stroke markers"
+         d="M 0,200 H 400"
+         stroke-opacity="0.9"
+         stroke-miterlimit="10"
+         stroke-width="1.5"
+         stroke-dasharray="none"
+         id="path100" />
+    </g>
+  </g>
+  <g
+     class="dcg-svg-axis-value"
+     id="g109"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="191.10834"
+       y="215.808"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3"
+       stroke-dasharray="none"
+       id="text105">0</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="191.10834"
+       y="215.808"
+       text-anchor="middle"
+       id="text107">0</text>
+  </g>
+  <g
+     class="dcg-svg-axis-value"
+     id="g121"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="97.666664"
+       y="215.808"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3"
+       stroke-dasharray="none"
+       id="text117">-5</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="97.666664"
+       y="215.808"
+       text-anchor="middle"
+       id="text119">-5</text>
+  </g>
+  <g
+     class="dcg-svg-axis-value"
+     id="g127"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="300"
+       y="215.808"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3"
+       stroke-dasharray="none"
+       id="text123">5</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="300"
+       y="215.808"
+       text-anchor="middle"
+       id="text125">5</text>
+  </g>
+  <g
+     class="dcg-svg-axis-value"
+     id="g151"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="191.10834"
+       y="103.808"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3"
+       stroke-dasharray="none"
+       id="text147">5</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="191.10834"
+       y="103.808"
+       text-anchor="middle"
+       id="text149">5</text>
+  </g>
+  <g
+     id="expressions-2df9ae94"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)"
+     style="stroke-width:1.35;stroke-dasharray:none">
+    <g
+       id="sketch-2df9ae94"
+       style="stroke-width:1.35;stroke-dasharray:none">
+      <title
+         id="title163">Expression 1</title>
+      <path
+         fill="#c74440"
+         stroke="none"
+         paint-order="stroke fill markers"
+         d=""
+         fill-opacity="0.4"
+         id="path165"
+         style="stroke-width:1.35;stroke-dasharray:none" />
+      <g
+         id="g169"
+         style="stroke-width:1.35;stroke-dasharray:none">
+        <path
+           fill="none"
+           stroke="#c74440"
+           class="dcg-svg-curve"
+           paint-order="fill stroke markers"
+           d="m 160,160 v 0 l 0.15625,4.32731 0.39062,3.75514 0.58594,3.52161 0.78125,3.43003 0.97656,3.3648 1.26954,3.5536 1.46484,3.41204 1.75781,3.47003 2.05078,3.46155 2.34375,3.40509 2.73438,3.42445 2.83203,3.06966 3.02734,2.85521 3.22266,2.64209 3.32031,2.36057 3.41797,2.09863 3.51563,1.8487 3.61328,1.60516 3.71093,1.36363 3.8086,1.1204 3.90625,0.87211 3.90625,0.60377 3.90625,0.34356 3.90625,0.0878 3.90625,-0.16681 3.90625,-0.42358 3.90625,-0.68591 3.80859,-0.93022 3.8086,-1.2012 3.71093,-1.44789 3.61328,-1.69429 3.51563,-1.94447 3.41797,-2.20335 3.22265,-2.39929 3.125,-2.6738 2.92969,-2.87654 2.73438,-3.08016 2.63672,-3.42827 2.34375,-3.54516 1.95312,-3.44535 1.66016,-3.4284 1.46484,-3.59583 1.17188,-3.49192 0.97656,-3.64725 0.68359,-3.34291 0.48828,-3.34073 0.29297,-3.25544 L 280,160"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           stroke-width="2.5"
+           stroke-opacity="0.9"
+           stroke-dasharray="none"
+           id="path167"
+           style="stroke-width:1.35;stroke-dasharray:none" />
+      </g>
+      <path
+         fill="#c74440"
+         stroke="none"
+         paint-order="stroke fill markers"
+         d=""
+         fill-opacity="0.4"
+         id="path171"
+         style="stroke-width:1.35;stroke-dasharray:none" />
+      <g
+         id="g175"
+         style="stroke-width:1.35;stroke-dasharray:none">
+        <path
+           fill="none"
+           stroke="#c74440"
+           class="dcg-svg-curve"
+           paint-order="fill stroke markers"
+           d="m 160,160 v 0 l 0.15625,-4.32731 0.39062,-3.75514 0.58594,-3.52161 0.78125,-3.43003 0.97656,-3.3648 1.26954,-3.5536 1.46484,-3.41204 1.75781,-3.47003 2.05078,-3.46155 2.34375,-3.40509 2.73438,-3.42445 2.83203,-3.06966 3.02734,-2.85521 3.22266,-2.64209 3.32031,-2.36057 3.41797,-2.09863 3.51563,-1.8487 3.61328,-1.60516 3.71093,-1.36363 3.8086,-1.1204 3.90625,-0.87211 3.90625,-0.60377 3.90625,-0.34356 3.90625,-0.0878 3.90625,0.16681 3.90625,0.42358 3.90625,0.68591 3.80859,0.93022 3.8086,1.2012 3.71093,1.44789 3.61328,1.69429 3.51563,1.94447 3.41797,2.20335 3.22265,2.39929 3.125,2.6738 2.92969,2.87654 2.73438,3.08016 2.63672,3.42827 2.34375,3.54516 1.95312,3.44535 1.66016,3.4284 1.46484,3.59583 1.17188,3.49192 0.97656,3.64725 0.68359,3.34291 0.48828,3.34073 0.29297,3.25544 L 280,160"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           stroke-width="2.5"
+           stroke-opacity="0.9"
+           stroke-dasharray="none"
+           id="path173"
+           style="stroke-width:1.35;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="g192"
+       style="stroke-width:1.35;stroke-dasharray:none">
+      <title
+         id="title178">Expression 2</title>
+      <path
+         fill="#2d70b3"
+         stroke="none"
+         paint-order="stroke fill markers"
+         d=""
+         fill-opacity="0.4"
+         id="path180"
+         style="stroke-width:1.35;stroke-dasharray:none" />
+      <g
+         id="g184"
+         style="stroke-width:1.35;stroke-dasharray:none">
+        <path
+           fill="none"
+           stroke="#2d70b3"
+           class="dcg-svg-curve"
+           paint-order="fill stroke markers"
+           d="m 220,180 v 0 l 0.11719,2.16189 0.39062,2.31635 0.58594,2.04508 0.78125,1.93152 1.07422,1.99843 1.36719,1.95741 1.66015,1.84917 1.85547,1.61278 1.95313,1.32205 2.05078,1.06314 2.14843,0.81604 2.2461,0.56769 2.24609,0.30034 2.2461,0.0451 2.24609,-0.2085 2.24609,-0.47027 2.14844,-0.71295 2.05078,-0.94939 1.95313,-1.19022 1.85547,-1.45023 1.66015,-1.64492 1.46485,-1.83856 1.26953,-2.05434 0.97656,-2.10058 0.68359,-2.03931 0.39063,-1.69848 0.19531,-1.29465 L 260,180"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           stroke-width="2.5"
+           stroke-opacity="0.9"
+           stroke-dasharray="none"
+           id="path182"
+           style="stroke-width:1.35;stroke-dasharray:none" />
+      </g>
+      <path
+         fill="#2d70b3"
+         stroke="none"
+         paint-order="stroke fill markers"
+         d=""
+         fill-opacity="0.4"
+         id="path186"
+         style="stroke-width:1.35;stroke-dasharray:none" />
+      <g
+         id="g190"
+         style="stroke-width:1.35;stroke-dasharray:none">
+        <path
+           fill="none"
+           stroke="#2d70b3"
+           class="dcg-svg-curve"
+           paint-order="fill stroke markers"
+           d="m 220,180 v 0 l 0.11719,-2.16189 0.39062,-2.31635 0.58594,-2.04508 0.78125,-1.93152 1.07422,-1.99843 1.36719,-1.95741 1.66015,-1.84917 1.85547,-1.61278 1.95313,-1.32205 2.05078,-1.06314 2.14843,-0.81604 2.2461,-0.56769 2.24609,-0.30034 2.2461,-0.0451 2.24609,0.2085 2.24609,0.47027 2.14844,0.71295 2.05078,0.94939 1.95313,1.19022 1.85547,1.45023 1.66015,1.64492 1.46485,1.83856 1.26953,2.05434 0.97656,2.10058 0.68359,2.03931 0.39063,1.69848 0.19531,1.29465 L 260,180"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           stroke-width="2.5"
+           stroke-opacity="0.9"
+           stroke-dasharray="none"
+           id="path188"
+           style="stroke-width:1.35;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="labels-2df9ae94"
+     transform="matrix(2,0,0,2,-172.08874,-139.45688)" />
+  <g
+     id="g2179"
+     transform="translate(-172.08874,-139.45688)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3.52278"
+       stroke-dasharray="none"
+       id="text2020">1</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       id="text2022"
+       style="stroke-width:1.17426">1</text>
+  </g>
+  <g
+     id="g2185"
+     transform="translate(-132.50642,-139.45688)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3.52278"
+       stroke-dasharray="none"
+       id="text2181">1</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       id="text2183"
+       style="stroke-width:1.17426">2</text>
+  </g>
+  <g
+     id="g2191"
+     transform="translate(-92.393244,-139.45688)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3.52278"
+       stroke-dasharray="none"
+       id="text2187">1</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       id="text2189"
+       style="stroke-width:1.17426">3</text>
+  </g>
+  <g
+     id="g2199"
+     transform="translate(-52.248006,-139.45688)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3.52278"
+       stroke-dasharray="none"
+       id="text2195">1</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       id="text2197"
+       style="stroke-width:1.17426">4</text>
+  </g>
+  <g
+     id="g2205"
+     transform="translate(-229.76039,-195.86337)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3.52278"
+       stroke-dasharray="none"
+       id="text2201">1</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       id="text2203"
+       style="stroke-width:1.17426">1</text>
+  </g>
+  <g
+     id="g2211"
+     transform="translate(-229.76039,-235.21137)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3.52278"
+       stroke-dasharray="none"
+       id="text2207">1</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       id="text2209"
+       style="stroke-width:1.17426">2</text>
+  </g>
+  <g
+     id="g2217"
+     transform="translate(-229.76039,-275.29632)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3.52278"
+       stroke-dasharray="none"
+       id="text2213">1</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       id="text2215"
+       style="stroke-width:1.17426">3</text>
+  </g>
+  <g
+     id="g2223"
+     transform="translate(-229.76039,-314.12875)">
+    <text
+       fill="none"
+       stroke="#ffffff"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       stroke-miterlimit="2"
+       stroke-width="3.52278"
+       stroke-dasharray="none"
+       id="text2219">1</text>
+    <text
+       fill="#000000"
+       stroke="none"
+       font-family="Arial"
+       font-size="16.4396px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="441.29904"
+       y="422.42401"
+       text-anchor="middle"
+       id="text2221"
+       style="stroke-width:1.17426">4</text>
+  </g>
+</svg>

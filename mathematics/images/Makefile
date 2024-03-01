@@ -25,6 +25,7 @@ circles_00.pdf \
 circles_01.pdf \
 circles_02.pdf \
 analyzem01.pdf \
+circ_06.pdf \
 01.pdf
 
 %.pdf: %.svg
