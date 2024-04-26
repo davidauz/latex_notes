@@ -329,37 +329,401 @@ oppure infiniti punti in comune (identiche e sovrapposte).
 
 
 
-%\vspace{1cm}
-%\hrule
-%\vspace{1cm}
-%
-%
-%Soluzione dell'esercizio \ref{circ_07} a pagina \pageref{circ_07}\label{circs_07}
-%
-%\vspace{1cm}
-%\hrule
-%\vspace{1cm}
-%
-%
-%Soluzione dell'esercizio \ref{circ_08} a pagina \pageref{circ_08}\label{circs_08}
-%
-%\vspace{1cm}
-%\hrule
-%\vspace{1cm}
-%
-%
-%Soluzione dell'esercizio \ref{circ_09} a pagina \pageref{circ_09}\label{circs_09}
-%
-%\vspace{1cm}
-%\hrule
-%\vspace{1cm}
-%
-%
-%Soluzione dell'esercizio \ref{circ_10} a pagina \pageref{circ_10}\label{circs_10}
-%
-%\vspace{1cm}
-%\hrule
-%\vspace{1cm}
-%
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+
+Soluzione dell'esercizio \ref{circ_07} a pagina \pageref{circ_07}\label{circs_07}
+
+Congiungendo i centri dei cerchi si ottiene un triangolo equilatero di lato $k=2$.
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6\textwidth]{circles04.pdf}
+\end{figure}
+
+L'altezza del triangolo è \[\sqrt{2^2-1^2}=\sqrt{3}\]
+La sua area è \[\frac{2\cdot\sqrt{3}}{2}=\sqrt{3}\]
+L'area del cerchio di raggio $1$ è $\pi$.
+
+La parte tratteggiata a puntini consiste di tre settori circolari,
+ognuno di area $\frac{\pi}{6}$.
+
+La risposta al problema è quindi \[\sqrt{3}-3\frac{\pi}{6}=\sqrt{3}-\frac{\pi}{2}\]
+
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+
+ Soluzione dell'esercizio \ref{circ_08} a pagina \pageref{circ_08}\label{circs_08}
+
+Trovare l'area della parte tratteggiata in grigio:
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6\textwidth]{circ_07.pdf}
+\end{figure}
+
+
+
+L'area da calcolare ($i$) consiste della differenza tra i due segmenti circolari
+$h$ e $g$, uno sotteso al cerchio grande $a$ e l'altro sotteso al cerchio
+piccolo $b$.
+
+Ognuno dei segmenti circolari $h$ e $g$ può essere calcolato come la 
+differenza tra il corrispondente settore circolare (``$c$'' e ``$d$'') e 
+il triangolo isoscele definito da esso (``$e$'' e ``$f$'').
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\textwidth]{circles.7.b.pdf}
+\caption{Denominazioni dei vari elementi}
+\label{fig:denom}
+\end{figure}
+
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6\textwidth]{circ_07_01.pdf}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6\textwidth]{circ_07_02.pdf}
+\includegraphics[width=0.6\textwidth]{circ_07_03.pdf}
+\end{figure}
+
+Prima di tutto è necessario calcolare la lunghezza del 
+segmento $MN$ definito dai punti di intersezione dei due cerchi.
+
+Sono possibili due soluzioni, una analitica e una geometrica.
+
+La soluzione analitica prevede l'utilizzo 
+dell'equazione del cerchio:
+
+\[ (x-h)^2+(y-x)^2=r^2 \]
+
+I due due cerchi in oggetto sono definiti dalle seguenti equazioni:
+\[ x^2+y^2=4 \]
+\[ (x-1)^2+(y+1)^2=1 \]
+
+Per trovare le coordinate dei punti $M$ e $N$ 
+bisogna risolvere un sistema:
+
+\[
+\left\{
+\begin{array}{ll}
+x^2+y^2=4 \\
+(x-1)^2+(y+1)^2=1
+\end{array}
+\right.
+\]
+
+La seconda equazione diventa:
+
+\[ x^2 -2x +1 +y^2 +2y+1=1 \]
+
+sostituisco $x^2+y^2$ con $4$:
+
+\[ 4-2x+1+2y=0 \]
+\[ 2y=2x-5  \]
+\[ y=x-\frac{5}{2} \]
+
+Sostituisco questo $y$ nella prima equazione:
+
+\[ x^2+\left( x-\frac{5}{2} \right)^2=4 \]
+\[ x^2+x^2-5x+\frac{25}{4} =4 \]
+\[ 2x^2-5x+\frac{9}{4}=0 \]
+
+\[ x=\frac{-b\pm \sqrt{b^2-4ac}}{2a} =
+\frac{5\pm \sqrt{5^2-4\cdot 2 \cdot \frac{9}{4}}}{2\cdot 2}\]
+\[=\frac{5\pm\sqrt{25-\frac{72}{4}}}{4}
+=\frac{5\pm\sqrt{\frac{100}{4}-\frac{72}{4}}}{4}
+=\frac{5\pm\sqrt{\frac{28}{4}}}{4}
+=\frac{5\pm\sqrt{7}}{4}
+\]
+\[x_1=\frac{5+\sqrt{7}}{4}
+,
+x_2=\frac{5-\sqrt{7}}{4}
+\]
+
+Ora è possibile calcolare le coordinate $y$ dei punti 
+di intersezione:
+
+\[ y=x-\frac{5}{2} \]
+\[ y_1=\frac{5+\sqrt{7}}{4}-\frac{5}{2}
+, 
+y_2=\frac{5-\sqrt{7}}{4}-\frac{5}{2}\]
+
+La lunghezza $L$ della corda $MN$ sarà data da:
+
+\[ L= \sqrt{(x_1-x_2)^2+(y_1-y_2)^2} \]
+\[ =\sqrt
+{
+\left(\frac{5+\sqrt{7}}{4}-\frac{5-\sqrt{7}}{4}\right)^2 +
+\left(
+	\left( \frac{5+\sqrt{7}}{4}-\frac{5}{2} \right)
+	-
+	\left( \frac{5-\sqrt{7}}{4}-\frac{5}{2} \right)
+\right)^2
+} \]
+
+\[ \sqrt{ \left( \frac{2\sqrt{7}}{4} \right)^2 + \left( \frac{2\sqrt{7}}{4} \right)^2} \]
+
+\[ \sqrt { \frac{7}{4} + \frac{7}{4} } = \sqrt{\frac{7}{2}}\]
+
+La formula per l'area del settore circolare è:
+\[A=\frac{L\cdot r}{2}\]
+dove $L$ è la lunghezza della corda $MN$ e $r$ è il raggio
+del cerchio.
+
+L'area del settore circolare del cerchio grande ($P, M, N$) è:
+\[A_1=\frac{L\cdot 2}{2}=L\]
+mentre quella del cerchio piccolo ($O, M, N$) è
+\[A_2=\frac{L\cdot 1}{2}=\frac{L}{2}\]
+
+La formula di Erone permette di calcolare l'area di un triangolo conoscendo
+la misura dei lati:
+
+\[A=\sqrt{
+\frac{p}{2}
+\cdot\left(\frac{p}{2}-a\right)
+\cdot\left(\frac{p}{2}-b\right)
+\cdot\left(\frac{p}{2}-c\right)
+}\]
+
+dove $p$ è il perimetro e $a, b, c$ sono le misure dei tre lati.
+
+Il triangolo 
+definito dai punti $P, M, N$
+( chiamato $\triangle e$ nella figura \ref{fig:denom} )
+
+avrà quindi area pari a 
+
+\[A_{e}=\sqrt{
+\frac{4+L}{2}
+\cdot\left(\frac{4+L}{2}-L\right)
+\cdot\left(\frac{4+L}{2}-2\right)
+\cdot\left(\frac{4+L}{2}-2\right)
+}\]
+\[=\sqrt{
+\frac{4+L}{2}
+\cdot\left(\frac{4-L}{2}\right)
+\cdot\left(\frac{L}{2}\right)
+\cdot\left(\frac{L}{2}\right)
+}
+=\sqrt{
+\frac{
+(4+L)(4-L)L^2
+}{2^4}
+}\]
+\[=\frac{L}{4}\sqrt{(4+L)(4-L)}\]
+
+mentre il triangolo definito dai punti $O, N, M$
+( chiamato $\triangle f$ nella figura \ref{fig:denom} )
+avrà area pari a 
+
+
+\[A_{t2}=\sqrt{
+\frac{2+L}{2}
+\cdot\left(\frac{2+L}{2}-L\right)
+\cdot\left(\frac{2+L}{2}-1\right)
+\cdot\left(\frac{2+L}{2}-1\right)
+}\]
+\[=\sqrt{
+\frac{2+L}{2}
+\cdot
+\frac{2-L}{2}
+\cdot
+\frac{L}{2}
+\cdot
+\frac{L}{2}
+}
+=\sqrt{
+\frac{
+(2+L)(2-L)L^2
+}{2^4}
+}
+\]
+\[
+=\frac{L}{4}
+\sqrt{(2+L)(2-L)}
+\]
+
+A questo punto è possibile calcolare l'area del segmento circolare 
+definito dalla corda $MN$ sul cerchio grande
+( chiamato $g$ in figura \ref{fig:denom} ) 
+come differenza tra l'area del corrispettivo settore circolare ($c$)
+e il triangolo $\triangle e$:
+\[  A_g= A_c - A_{\triangle e} \]
+\[=L-\frac{L}{4}\sqrt{(4+L)(4-L)}\]
+
+Allo stesso modo si calcola l'area del segmento circolare $h$
+definito sul cerchio piccolo come 
+\[A_{h}=A_d-A_{\triangle f}\]
+\[=\frac{L}{2}-\frac{L}{4}
+\sqrt{(2+L)(2-L)}\]
+
+La risposta al quesito dell'esercizio consiste nella differenza tra queste due aree:
+\[A_{g}-A_{h}\]
+\[=L-\frac{L}{4}\sqrt{(4+L)(4-L)}-\left(\frac{L}{2}-\frac{L}{4}
+\sqrt{(2+L)(2-L)}\right)\]
+
+basta sostituire $L$ con il valore trovato precedentemente,
+$L=\sqrt{\frac{7}{2}}$:
+
+\[A_{g}-A_{h}\]
+\[
+=L
+-L\frac{1}{4}\sqrt{(4+L)(4-L)}
+-\left(L\frac{1}{2}
+-L\frac{1}{4}\sqrt{(2+L)(2-L)}\right)
+\]
+
+\[
+=\sqrt{\frac{7}{2}}
+-\frac{1}{4}\sqrt{\frac{7}{2}}\sqrt{\left(4+\sqrt{\frac{7}{2}}\right)\left(4-\sqrt{\frac{7}{2}}\right)}
+-\left(\frac{1}{2}\sqrt{\frac{7}{2}}
+-\frac{1}{4}\sqrt{\frac{7}{2}}\sqrt{\left(2+\sqrt{\frac{7}{2}}\right)\left(2-\sqrt{\frac{7}{2}}\right)}\right)
+\]
+
+
+\[
+=\sqrt{\frac{7}{2}}
+-\frac{1}{4}\sqrt{\frac{7}{2}}
+\sqrt{\left(16+\frac{7}{2}\right)}
+-\frac{1}{2}\sqrt{\frac{7}{2}}
++\frac{1}{4}\sqrt{\frac{7}{2}}\sqrt{\left(4+\frac{7}{2}\right)}
+\]
+
+\[
+=\sqrt{\frac{7}{2}}\cdot\left(
+1-\frac{1}{4}
+\sqrt{\frac{39}{2}}
+-\frac{1}{2}
++\frac{1}{4}\sqrt{\frac{15}{2}}
+\right)
+\]
+
+\[
+=\sqrt{\frac{7}{2}}\cdot\left(
+\frac{1}{2}
+-
+\frac{\sqrt{39}+\sqrt{15}}{4\sqrt{2}}
+\right)
+\]
+
+La soluzione geometrica si basa sul fatto che il triangolo 
+$\triangle PQM$ è retto, così come lo è $\triangle OQM$. 
+
+Possiamo quindi scrivere che 
+
+\[
+\left\{
+\begin{array}{ll}
+PM^2=QM^2+PQ^2
+\\
+OM^2=QM^2+OQ^2
+\end{array}
+\right.
+\]
+
+\[
+\left\{
+\begin{array}{ll}
+QM^2=PM^2-PQ^2
+\\
+QM^2=OM^2-OQ^2
+\end{array}
+\right.
+\]
+
+\[PM^2-PQ^2=OM^2-OQ^2\]
+
+Sappiamo inoltre che
+\begin{enumerate}
+\item $PQ=OP+OQ$
+\item $PM=2$
+\item $OM=1$
+\item $OP=\sqrt{2}$ essendo il punto $O$ alle coordinate $(1,-1)$
+\end{enumerate}
+
+
+
+\[4-(\sqrt{2}+OQ)^2=1-OQ^2\]
+\[4-2-2\sqrt{2}OQ-OQ^2=1-OQ^2\]
+\[-2\sqrt{2}OQ+1=0\]
+\[OQ=\frac{1}{2\sqrt{2}}\]
+Ora siccome $\triangle MOQ$ è retto:
+\[MQ^2=OM^2-OQ^2\]
+\[MQ^2=1-\left(\frac{1}{2\sqrt{2}}\right)^2\]
+\[MQ^2=1-\frac{1}{8}\]
+\[MQ=\sqrt{\frac{7}{8}}\]
+\[MN=2\sqrt{\frac{7}{8}}=\sqrt{\frac{28}{8}}\]
+\[=\sqrt{\frac{7}{2}}\]
+
+I calcoli di seguito sono identici al caso precedente.
+
+
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+
+Soluzione dell'esercizio \ref{circ_09} a pagina \pageref{circ_09}\label{circs_09}
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+
+Soluzione dell'esercizio \ref{circ_10} a pagina \pageref{circ_10}\label{circs_10}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{circ_08_02.pdf}
+\end{figure}
+
+Il triangolo $\triangle{ABC_1}$ è isoscele in quanto i lati $\overline{AC_1}$ e
+$\overline{BC_1}$ sono entrambi definiti 
+dal raggio del cerchio che è uguale a $1$.
+
+Dal punto $C1$ si traccia una perpendicolare al segmento $\overline{AB}$, che lo divide 
+in due parti uguali di lunghezza $n=\frac{AB}{2}$.
+
+Il punto $D$ è tangente al cerchio centrato in $(4,0)$ per cui l'angolo $\angle{BDC}$ è retto.
+
+I due segmenti $\overline{EC_1}$ e $\overline{DC_2}$ sono paralleli in quanto perpendicolari alla stessa retta.
+
+Gli angoli $\angle{C_0C_1E}$ e $\angle{C_0C_2D}$ sono uguali in quanto definiti da due rette parallele
+che ne intersecano una terza.
+
+I due triangoli $\triangle{C_0EC_1}$ e $\triangle{C_0DC_2}$ sono quindi simili; possiamo quindi scrivere 
+una proporzione:
+
+\[ \frac{\overline{C_0C_2}}{\overline{C_0C_1}} = \frac{\overline{DC_2}}{\overline{EC_1}} \]
+\[ \frac{4}{2} = \frac{1}{m} \]
+\[ m=\frac{1}{2} \]
+
+A questo punto per Pitagora:
+\[ n=\sqrt{r^2-m^2} \]
+\[ n=\sqrt{1-\left(\frac{1}{2}\right)^2} \]
+\[ n=\sqrt{\frac{3}{4}}, \overline{AB}=\sqrt{3} \]
+
+
+
+
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
 
 

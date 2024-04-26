@@ -2,6 +2,9 @@ all: arrangements.pdf \
 carrucole.2.pdf \
 carrucole.3.pdf \
 carrucole.4.pdf \
+fili_01_01.pdf \
+fili_01_02.pdf \
+fili_01_03.pdf \
 carrucole.5.pdf \
 carrucole.6.pdf \
 carrucole.pdf \

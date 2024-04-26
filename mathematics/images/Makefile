@@ -24,8 +24,18 @@ trigo_06.pdf \
 circles_00.pdf \
 circles_01.pdf \
 circles_02.pdf \
+circles03.pdf \
+circles04.pdf \
+circles.7.b.pdf \
 analyzem01.pdf \
 circ_06.pdf \
+circ_07.pdf \
+circ_07_00.pdf \
+circ_07_01.pdf \
+circ_08_01.pdf \
+circ_08_02.pdf \
+circ_07_02.pdf \
+circ_07_03.pdf \
 01.pdf
 
 %.pdf: %.svg

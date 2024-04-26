@@ -1,11 +1,14 @@
 fisica.pdf: carrucole.tex \
 fisica.tex \
 formulas.tex \
+carrucole.soluzioni.tex \
 moto.circolare.tex \
 motocirc.sol.tex \
 moto_lineare.tex \
 proiettili.esercizi.tex \
 proiettili.soluzioni.tex \
+gravitazione.sol.tex \
+gravitazione.tex \
 pwam.tex \
 soluzioni.tex
 	cd images; make
@@ -22,6 +25,9 @@ fisica.tex: images/arrangements.svg \
 images/carrucole.2.svg \
 images/carrucole.3.svg \
 images/carrucole.4.svg \
+images/fili_01_01.svg \
+images/fili_01_02.svg \
+images/fili_01_03.svg \
 images/carrucole.5.svg \
 images/carrucole.6.svg \
 images/carrucole.svg \
