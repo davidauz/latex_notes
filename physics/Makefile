@@ -10,7 +10,7 @@ proiettili.soluzioni.tex \
 gravitazione.sol.tex \
 gravitazione.tex \
 pwam.tex \
-soluzioni.tex
+soluzioni.moto.lineare.tex
 	cd images; make
 	pdflatex fisica.tex && pdflatex fisica.tex
 

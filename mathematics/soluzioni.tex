@@ -1722,3 +1722,185 @@ Soluzione dell'esercizio \ref{combl_04} a pagina \pageref{combl_04}\label{combs_
 \item $\frac{n(n-1)}{2}$
 \end{enumerate}
 
+
+\vspace{1cm}
+\hrule
+\vspace{1cm}
+
+Soluzione dell'esercizio \ref{combl_05} a pagina \pageref{combl_05}\label{combs_05}
+
+\vspace{1cm}
+
+Il numero di possibili modi di scegliere $4$ elementi
+da un insieme di $13$ è definito come segue:
+\[
+n_{tot}=\binom{13}{4}=\frac{13!}{4!(13-4)!}=715
+\]
+
+Esistono quindi $715$ modi di scegliere $4$ carte da un insieme di $13$.
+
+L'ordine delle carte scelte non è importante: se per esempio le carte 
+contrassegnate sono $\{1, 2, 3, 4\}$, il giocatore vince se sceglie 
+le carte $\{4, 3, 2, 1\}$ ma vince allo stesso nodo anche 
+scegliendo $\{2, 4, 3, 1\}$ e così via, in 
+ognuna delle possibili permutazioni delle carte contrassegnate.
+
+In questo caso si tratta di stabilire in quanti modi sia 
+possibile scegliere 4 elementi da un insieme di 4 elementi.
+Abbastanza intuitivamente, esiste un solo modo.
+
+Formalmente, abbiamo:
+
+\[
+n_{i4}=\binom{4}{4}=\frac{4!}{4!(4-4)!}=\frac{4!}{4!\cdot 0!}=\frac{4!}{4!\cdot 1}=1
+\]
+
+Allo stesso modo bisogna tenere conto delle possibili combinazioni delle rimanenti 
+9 carte, quelle che non sono state scelte, e cioè quanti modi possibili esistono
+di scegliere zero elementi da un insieme di $9$:
+\[
+n_{r0}=\binom{9}{0}=1
+\]
+
+Nel caso di 4 carte indovinate, il numero di possibili combinazioni vincenti è:
+\[
+n_{t4}=n_{i4}\times n_{r0}=\binom{4}{4}\times\binom{9}{0}=1
+\]
+
+La probabilità di indovinare $4$ carte è quindi:
+\[
+p_4=\frac{n_{t4}}{n_4}=\frac{1}{715}=.001398\approx 0.14\%
+\]
+
+
+Nel caso in cui vengano indovinate $3$ carte, il 
+numero di possibili modi di scegliere $3$ elementi da un insieme di $4$ è:
+\[
+n_{i3}=\binom{4}{3}=\frac{4!}{3!\cdot(4-3)!}=4
+\]
+Per le carte rimanenti, il numero di modi possibili di scegliere un elemento
+da un insieme di $9$:
+\[
+n_{r1}=\binom{9}{1}=9
+\]
+Il numero di possibili conbinazioni vincenti
+è quindi:
+
+\[
+n_{t3}=n_{i3}\times n_{r1}=\binom{4}{3}\times\binom{9}{1}=4\cdot 9=36
+\]
+
+
+La probabilità di indovinare $3$ carte è quindi:
+\[
+p_3=\frac{n_{t3}}{n_4}=\frac{36}{715}=.050349\approx 5.03\%
+\]
+
+Allo stesso modo si eseguono i calcoli per il caso di due carte indovinate:
+\[
+n_{i2}=\binom{4}{2}=6
+\]
+\[
+n_{r2}=\binom{9}{2}=36
+\]
+
+\[
+n_{t2}=n_{i2}\times n_{r2}=\binom{4}{2}\times\binom{9}{2}=6\cdot 36=216
+\]
+
+
+La probabilità di indovinare $2$ carte è quindi:
+\[
+p_2=\frac{n_{t2}}{n_4}=\frac{216}{715}=.302097\approx 30.21\%
+\]
+
+Per una carta indovinata:
+
+
+\[
+n_{i1}=\binom{4}{1}=4
+\]
+\[
+n_{r1}=\binom{9}{3}=84
+\]
+
+\[
+n_{t1}=n_{i1}\times n_{r1}=\binom{4}{1}\times\binom{9}{3}=4\cdot 84=336
+\]
+
+
+La probabilità di indovinare una carta è quindi:
+\[
+p_1=\frac{n_{t1}}{n_4}=\frac{336}{715}=.469930\approx 47\%
+\]
+
+Per nessuna carta indovinata:
+
+
+
+\[
+n_{i0}=\binom{4}{0}=1
+\]
+\[
+n_{r0}=\binom{9}{4}=126
+\]
+
+\[
+n_{t0}=n_{i0}\times n_{r0}=\binom{4}{0}\times\binom{9}{4}=1\cdot 126=126
+\]
+
+
+La probabilità di indovinare una carta è quindi:
+\[
+p_0=\frac{n_{t0}}{n_4}=\frac{126}{715}=.176223\approx 17.62\%
+\]
+
+Vediamo ora quali sono le aspettative dal punto di vista delle vincite.
+
+
+\begin{table}[H]
+\begin{tabular}{@{}|c|c|c|c|@{}}
+\hline
+Carte indovinate & Vincita(\euro)     & Probabilità   & Ammontare(\euro) \\
+\hline
+4                & 200         & 0.001398      & 0.279720 \\
+3                & 80          & 0.050349      & 4.027972 \\
+2                & 30          & 0.302097      & 9.062937 \\
+1                & 10          & 0.469930      & 4.699300 \\
+0                & 2           & 0.176223      & 0.352447 \\
+\hline
+\hline
+\multicolumn{3}{|c|}{Totale}                 & 18.422376\\
+\hline
+\end{tabular}
+\end{table}
+
+Alla luce di quanto esposto il giocatore che paga 20 \euro\hspace{1mm}mediamente si
+aspetta una vincita di quasi $18.5$ \euro \hspace{1mm} oppure, all'inverso, 
+il truffatore si aspetta di guadagnare $1.5$  \hspace{1mm} \euro.
+
+La percentuale di profitto del gioco è:
+\[
+100*\frac{20-18.5}{20}=0.075=7.5\%
+\]
+
+
+Nei giochi d'azzardo questo valore viene definito 
+con il termine \emph{house edge} e rappresenta 
+il vantaggio del banco (o del casinò) rispetto al giocatore.
+
+Per esempio nel gioco della roulette (versione europea con un solo zero)
+lo \emph{house edge} è del $2.7\%$, vale a dire che su una puntata di 
+$20$\euro\hspace{1mm} ci si aspetta di perderne il $2.7\%$ e cioè
+$20\cdot 0.027=0.54$.
+
+La versione americana con il doppio zero è ancora meno conveniente, con 
+uno \emph{house edge} del $5.25\%$.
+
+Nel blackjack lo \emph{house edge} è stimato attorno al $2\%$.
+
+Confrontato con altri giochi d'azzardo il valore ottenuto sopra 
+è piuttosto alto,
+vale a dire che si tratta di un gioco molto conveniente per il truffatore 
+e molto poco conveniente per il giocatore.
+
